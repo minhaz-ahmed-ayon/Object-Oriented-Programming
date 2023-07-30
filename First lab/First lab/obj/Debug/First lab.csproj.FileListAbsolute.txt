@@ -1,0 +1,3 @@
+D:\OOP2\First lab\First lab\obj\Debug\First lab.csproj.AssemblyReference.cache
+D:\OOP2\First lab\First lab\obj\Debug\First lab.csproj.SuggestedBindingRedirects.cache
+D:\OOP2\First lab\First lab\obj\Debug\First lab.csproj.CoreCompileInputs.cache
