@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\bin\Debug\Railway.exe.config
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\bin\Debug\Railway.exe
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\bin\Debug\Railway.pdb
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.Home.resources
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.stationmaster.resources
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.Stationmasterlogin.resources
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.stationmasterregistration.resources
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.trainmaster.resources
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.trainmasterlogin.resources
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.trainmasterregistration.resources
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.exe
+C:\Users\ASUS\Desktop\Project 2022\Railway\Railway\obj\Debug\Railway.pdb
